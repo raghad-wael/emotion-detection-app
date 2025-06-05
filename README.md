@@ -39,7 +39,7 @@ Run the Flask application:
 
 3. Click the Start button to begin streaming video from your webcam and detecting emotions.
 
-4. Click the Stop button to stop the video feed.
+4. Click the Stop button to stop the video feed . 
 
 
 
